@@ -7,6 +7,7 @@ This repo is the documentation of my learning path into cybersecurity. My focus 
 - OverTheWire Bandit (Levels 0-15)
 - TryHackMe: Pre-security Path
 - TryHackme: Cybersecurity 101 *(in progress)*
+- FullStackOpen *(in progress)*
 
 
 ## Labs and Tools
