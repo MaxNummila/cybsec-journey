@@ -66,7 +66,7 @@ This file covers my progress and what I have learned from the **Pre-Security** p
 ## Own thoughts and findings
 - Surprising amount of good labs and tasks which gave a good basic refresh on all the fundamentals.
 - Only real learning done was in the Linux fundamentals part, which I found really interesting since I have gained an interest in Linux as of late.
-- The windows fundamentals were really underwhelming compared to the linux ones, especially since I am used to windows. Only part 3 felt like it had somewhat new and interesting tools to me.
+- The windows fundamentals were somewhat underwhelming compared to the linux ones, especially since I am used to windows. Part 1 felt very boring, and part 2 had some interesting parts, but did not really get going with any of them.
 
  CheatSheet:
  Nothing real noteworthy except linux commands which also excist in OverTheWire bandit logs
