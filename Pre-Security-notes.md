@@ -61,12 +61,12 @@ This file covers my progress and what I have learned from the **Pre-Security** p
 - Services, registry, file system
 - `winver`, `systeminfo` and control panel
 #### File system and navigation
-
+#### System Configuration
 
 ## Own thoughts and findings
 - Surprising amount of good labs and tasks which gave a good basic refresh on all the fundamentals.
 - Only real learning done was in the Linux fundamentals part, which I found really interesting since I have gained an interest in Linux as of late.
-- The windows fundamentals were really underwhelming compared to the linux ones, especially since I am used to windows.
+- The windows fundamentals were really underwhelming compared to the linux ones, especially since I am used to windows. Only part 3 felt like it had somewhat new and interesting tools to me.
 
  CheatSheet:
  Nothing real noteworthy except linux commands which also excist in OverTheWire bandit logs
