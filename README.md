@@ -13,12 +13,11 @@ This repo is the documentation of my learning path into cybersecurity. My focus 
 ## Labs and Tools
 - Bandit: SSH, file navigation, permissions, Hex-dumps
 - Pre-Security: Linux fundamentals, Windows fundamentals, Networking, network fundamentals
-- Tools: `ssh`, `ls`, `grep`, `find`, `gunzip`, `bunzip2`
-
+- Cybersecurity 101: Search engines
 
 ## Books
-- Internet, Mikko Hyppönen 2021 *(In progress)*
-- Black hat Python 2nd edition, Justin Seitz and Tim Arnold 2021
+- Internet, Mikko Hyppönen 2021
+- Black hat Python 2nd edition, Justin Seitz and Tim Arnold 2021 *(In progress)*
 
 ## Notes by Topic
 - Will be adding specific folders with files for each topic/lab where the progress, cheatsheets, notes and struggles will be.
