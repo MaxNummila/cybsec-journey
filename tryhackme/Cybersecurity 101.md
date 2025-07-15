@@ -7,8 +7,9 @@ This file covers my progress and what I have learned from the **cybersecurity 10
 ## Path Overview
 **Modules Completed:**
 - Search Skills
+- Active Directory Basics
 
-**SKills Gained:**
+**Skills Gained:**
 
 
 
@@ -21,6 +22,13 @@ This file covers my progress and what I have learned from the **cybersecurity 10
 - Common Vulnerabilities and Exposures (CVE)
 - Exploit Databases
 - Technical Documentation
+
+### Active Directory
+- Organizational Units (OU)
+- Security Groups
+#### Managing Users in AD
+- Delegation, process of granting privileges to users
+- RDP
 
 
 
