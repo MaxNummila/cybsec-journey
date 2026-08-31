@@ -2,6 +2,20 @@
 
 This repo is the documentation of my learning path into cybersecurity. My focus is on hands-on learning with tools like TryHackMe and OverTheWire.
 
+## Subdirectories
+**Black_Hat_Python**
+- Notes and scripts from the Black hat Python book, currently on hold
+**Homelab**
+- GPU accelerated NIDS system, on hold
+**Networking Projects**
+- Smaller networking projects for learning both networking and cybersecurity via python
+**Roadmap.sh**
+- Notes for reading done via [Roadmap.sh](https://roadmap.sh/cyber-security)
+**SC-900**
+- Notes and documentation for labs a part of the SC-900 course
+**TryHackMe**
+- Notes from the reading done on [TryHackMe](https://tryhackme.com/)
+
 
 ## Progress
 - OverTheWire Bandit (Levels 0-15) ✅
@@ -20,6 +34,7 @@ This repo is the documentation of my learning path into cybersecurity. My focus 
 ## Books
 - Internet, Mikko Hyppönen 2021
 - Hyvät Hakkerit, Linus Nyman 2025
+- Ghost in the wires, Kevin Mitnick, William L. Simon 2011 *(In progress)*
 - Black hat Python 2nd edition, Justin Seitz and Tim Arnold 2021 *(In progress)*
 
 ## Notes by Topic
