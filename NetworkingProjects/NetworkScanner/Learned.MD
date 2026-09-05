@@ -11,6 +11,7 @@
 - Ipaddress
   - .ip_address(strict) - the strict flag is for deciding if the address does not represent a valid address 
 - Socket
+  - Socket.timeout is for having a ttl for the requests before moving on
 
 ## Networking
 - Host discovery
